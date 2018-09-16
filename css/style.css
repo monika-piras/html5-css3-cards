@@ -72,7 +72,7 @@ body {
 .section-cards {
     position: relative;
     padding: 10rem  0;
-    background-color: rgb(156, 154, 154);
+    background-color: rgba(156, 154, 154, 0.11);
 }
 
 .heading-primary {
